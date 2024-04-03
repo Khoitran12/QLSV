@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\",
+  "WorkspaceRootPath": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|c:\\users\\duyen\\onedrive\\m\u00E1y t\u00EDnh\\sa\\prelude-qlsv\\gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|c:\\users\\duyen\\onedrive\\m\u00E1y t\u00EDnh\\sa\\prelude-qlsv\\gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|c:\\users\\duyen\\onedrive\\m\u00E1y t\u00EDnh\\sa\\prelude-qlsv\\gui\\danhsachhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|c:\\users\\duyen\\onedrive\\m\u00E1y t\u00EDnh\\ql\\gui\\danhsachhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\danhsachhocphan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachhocphan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\doimatkhaumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\doimatkhaumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\doimatkhaumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\capnhatdiemchosinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\danhsachhocphan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachhocphan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\danhsachsinhviencualop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{002686B8-9BED-4F48-A9DF-04F944129329}|DTO\\DTO.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{002686B8-9BED-4F48-A9DF-04F944129329}|DTO\\DTO.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{002686B8-9BED-4F48-A9DF-04F944129329}|DTO\\DTO.csproj|solutionrelative:dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27E0B0DC-F8CC-4A9F-9187-5DF19657873F}|DAO\\DAO.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\dao\\taotaikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27E0B0DC-F8CC-4A9F-9187-5DF19657873F}|DAO\\DAO.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\dao\\taotaikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E0B0DC-F8CC-4A9F-9187-5DF19657873F}|DAO\\DAO.csproj|solutionrelative:dao\\taotaikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F83C7A9-A98B-4D7A-9731-B8726F3F8053}|BUS\\BUS.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\bus\\taotaikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F83C7A9-A98B-4D7A-9731-B8726F3F8053}|BUS\\BUS.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\bus\\taotaikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F83C7A9-A98B-4D7A-9731-B8726F3F8053}|BUS\\BUS.csproj|solutionrelative:bus\\taotaikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,11 +86,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CapNhatDiemChoSinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\CapNhatDiemChoSinhVien.cs",
+              "DocumentIndex": 0,
+              "Title": "CapNhatDiemChoSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\CapNhatDiemChoSinhVien.cs",
               "RelativeDocumentMoniker": "GUI\\CapNhatDiemChoSinhVien.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\CapNhatDiemChoSinhVien.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\CapNhatDiemChoSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\CapNhatDiemChoSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:54:40.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachHocPhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachHocPhan.cs",
+              "RelativeDocumentMoniker": "GUI\\DanhSachHocPhan.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachHocPhan.cs [Design]",
+              "RelativeToolTip": "GUI\\DanhSachHocPhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:41:12.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoiMatKhauMoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DoiMatKhauMoi.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhauMoi.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DoiMatKhauMoi.cs [Design]",
+              "RelativeToolTip": "GUI\\DoiMatKhauMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:09:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapNhatDiemChoSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\CapNhatDiemChoSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\CapNhatDiemChoSinhVien.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\CapNhatDiemChoSinhVien.cs",
               "RelativeToolTip": "GUI\\CapNhatDiemChoSinhVien.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,48 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CapNhatDiemChoSinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\CapNhatDiemChoSinhVien.cs",
-              "RelativeDocumentMoniker": "GUI\\CapNhatDiemChoSinhVien.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\CapNhatDiemChoSinhVien.cs [Design]",
-              "RelativeToolTip": "GUI\\CapNhatDiemChoSinhVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:54:40.564Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DanhSachHocPhan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachHocPhan.cs",
-              "RelativeDocumentMoniker": "GUI\\DanhSachHocPhan.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachHocPhan.cs [Design]",
-              "RelativeToolTip": "GUI\\DanhSachHocPhan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:41:12.2Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DanhSachSinhVienCuaLop.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachSinhVienCuaLop.cs",
-              "RelativeDocumentMoniker": "GUI\\DanhSachSinhVienCuaLop.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachSinhVienCuaLop.cs",
-              "RelativeToolTip": "GUI\\DanhSachSinhVienCuaLop.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:33:25.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DanhSachSinhVienCuaLop.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachSinhVienCuaLop.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachSinhVienCuaLop.cs",
               "RelativeDocumentMoniker": "GUI\\DanhSachSinhVienCuaLop.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachSinhVienCuaLop.cs [Design]",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachSinhVienCuaLop.cs [Design]",
               "RelativeToolTip": "GUI\\DanhSachSinhVienCuaLop.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T09:10:47.102Z",
@@ -149,44 +147,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DoiMatKhauMoi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DoiMatKhauMoi.cs",
-              "RelativeDocumentMoniker": "GUI\\DoiMatKhauMoi.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DoiMatKhauMoi.cs [Design]",
-              "RelativeToolTip": "GUI\\DoiMatKhauMoi.cs [Design]",
+              "Title": "DanhSachSinhVienCuaLop.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachSinhVienCuaLop.cs",
+              "RelativeDocumentMoniker": "GUI\\DanhSachSinhVienCuaLop.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachSinhVienCuaLop.cs",
+              "RelativeToolTip": "GUI\\DanhSachSinhVienCuaLop.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:09:08.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoiMatKhau.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DoiMatKhau.cs",
-              "RelativeDocumentMoniker": "GUI\\DoiMatKhau.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DoiMatKhau.cs [Design]",
-              "RelativeToolTip": "GUI\\DoiMatKhau.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:09:08.071Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-02T09:33:25.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\sa\\Prelude-QLSV\\GUI\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:09:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DanhSachHocPhan.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachHocPhan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachHocPhan.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\DanhSachHocPhan.Designer.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\DanhSachHocPhan.Designer.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\DanhSachHocPhan.Designer.cs",
               "RelativeToolTip": "GUI\\DanhSachHocPhan.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:43:34.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T09:43:34.558Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "QuenMatKhau.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\QuenMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\QuenMatKhau.cs",
               "RelativeDocumentMoniker": "GUI\\QuenMatKhau.cs",
               "ToolTip": "D:\\Source Code\\PTPM\\Prelude-QLSV\\GUI\\QuenMatKhau.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -196,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TaoTaiKhoanDAO.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\DAO\\TaoTaiKhoanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\DAO\\TaoTaiKhoanDAO.cs",
               "RelativeDocumentMoniker": "DAO\\TaoTaiKhoanDAO.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\DAO\\TaoTaiKhoanDAO.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\DAO\\TaoTaiKhoanDAO.cs",
               "RelativeToolTip": "DAO\\TaoTaiKhoanDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TaiKhoanDTO.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\DTO\\TaiKhoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\DTO\\TaiKhoanDTO.cs",
               "RelativeDocumentMoniker": "DTO\\TaiKhoanDTO.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\DTO\\TaiKhoanDTO.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\DTO\\TaiKhoanDTO.cs",
               "RelativeToolTip": "DTO\\TaiKhoanDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,19 +218,19 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TaoTaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\TaoTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\TaoTaiKhoan.cs",
               "RelativeDocumentMoniker": "GUI\\TaoTaiKhoan.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\TaoTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\TaoTaiKhoan.cs",
               "RelativeToolTip": "GUI\\TaoTaiKhoan.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T09:09:08.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "QuenMatKhau.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\QuenMatKhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\QuenMatKhau.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\QuenMatKhau.Designer.cs",
               "ToolTip": "D:\\Source Code\\PTPM\\Prelude-QLSV\\GUI\\QuenMatKhau.Designer.cs*",
               "ViewState": "AQIAAGsAAAAAAAAAAAAmwH0AAAAAAAAA",
@@ -243,9 +241,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\GUI\\Program.cs",
               "RelativeToolTip": "GUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "TaoTaiKhoanBUS.cs",
-              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\BUS\\TaoTaiKhoanBUS.cs",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\BUS\\TaoTaiKhoanBUS.cs",
               "RelativeDocumentMoniker": "BUS\\TaoTaiKhoanBUS.cs",
-              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\sa\\Prelude-QLSV\\BUS\\TaoTaiKhoanBUS.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\QL\\BUS\\TaoTaiKhoanBUS.cs",
               "RelativeToolTip": "BUS\\TaoTaiKhoanBUS.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAowBcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
